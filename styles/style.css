@@ -135,6 +135,7 @@ main {
     border-radius: 75px;
     opacity: 82%;
     transition: 800ms;
+    width: 245px;
 }
 .minha-foto:hover {
     opacity: 60%;
