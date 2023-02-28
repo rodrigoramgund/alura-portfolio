@@ -135,7 +135,6 @@ main {
     border-radius: 75px;
     opacity: 82%;
     transition: 800ms;
-    width: 245px;
 }
 .minha-foto:hover {
     opacity: 60%;
@@ -173,5 +172,9 @@ main {
     .apresentacao__conteudo {
         width: auto;
         justify-content: center;
+    }
+
+    .minha-foto {
+        width: 245px;
     }
 }
