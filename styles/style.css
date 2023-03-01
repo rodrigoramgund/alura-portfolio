@@ -173,7 +173,9 @@ main {
         width: auto;
         justify-content: center;
     }
-
+    .apresentacao__conteudo__texto {
+        margin-left: 1%;
+    }
     .minha-foto {
         width: 245px;
     }
